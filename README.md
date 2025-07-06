@@ -51,7 +51,7 @@ From this challenge I found out that I'm weak in some CSS area. I will continue 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Shanmukh-19)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
