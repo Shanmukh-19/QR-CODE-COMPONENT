@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 ## Table of contents
 
   - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,11 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor]
 ## Overview
 
 This is a simple HTML and CSS Project.In this project I designed a QR Component cardboard layout.
-
-### Screenshot
-
-![alt text](image.png)
-
 
 ### Links
 
