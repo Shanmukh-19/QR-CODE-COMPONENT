@@ -41,7 +41,6 @@ In this project I get to know about min-height and relative view height concept.
 
 From this challenge I found out that I'm weak in some CSS area. I will continue focus on those things.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
